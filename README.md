@@ -7,3 +7,6 @@ This repository is for the beginners who are using the SIM7000 based ideamart de
 
 
 *Before running the temperature,humidity example, Please extract the library in that folder to your default Arduino Libraries folder.
+
+
+Please refer https://docs.iot.ideamart.io for more information
