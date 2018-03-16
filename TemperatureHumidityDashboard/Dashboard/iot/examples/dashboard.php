@@ -183,7 +183,7 @@ include('getDevices.php');
 							
 							
                             <div class="card-footer" >
-                                
+                                <p> &copy;  Ideamart </p>
                             </div>
                         </div>
                   </div>
@@ -214,7 +214,7 @@ include('getDevices.php');
 							
 							
                             <div class="card-footer" >
-                                
+				    <p> &copy;  Ideamart </p>
                             </div>
                         </div>
                   </div>
@@ -225,7 +225,7 @@ include('getDevices.php');
             </div>
             <footer class="footer">
                 <div class="container-fluid">
-                  
+                  <p> &copy;  Ideamart </p>
                 </div>
             </footer>
         </div>
